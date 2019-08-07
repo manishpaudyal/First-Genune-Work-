@@ -1,2 +1,2 @@
-$My Genune Work
+My Genune Work
 This is my first pus to git
